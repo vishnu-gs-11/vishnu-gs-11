@@ -54,7 +54,7 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
 
-<div align="left">
+<div>
 
 **📁 Projects**
 - 🌍 <a href="https://vgweb.ccbp.tech"><strong>Web Projects</strong></a> – Static & dynamic websites  
@@ -65,7 +65,7 @@
 
 </div>
 
-<div align="right">
+<div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical" width="350"/>
 
