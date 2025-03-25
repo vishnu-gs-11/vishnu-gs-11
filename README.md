@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Vishnu Ganesan 👋</h1>
-
 <p align="center">
-  🚀 <strong>Full Stack Developer</strong> | ECE Student | Tech Enthusiast  
-  <br>
-  📍 Karur, Tamil Nadu, India  
-  <br>
-  📧 <a href="mailto:vishnuganesan11@gmail.com">vishnuganesan11@gmail.com</a> | 📞 +91 93455 95824 | 
+  🚀 Full Stack Developer | ECE Student | Tech Enthusiast <br>
+  📍 Karur, Tamil Nadu, India <br>
+  📧 <a href="mailto:vishnuganesan11@gmail.com">vishnuganesan11@gmail.com</a> &nbsp;|&nbsp;
+  📞 +91 93455 95824 <br>
   🔗 <a href="https://vishnuportfolio.ccbp.tech">Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/vishnu-ganesan-0a8328230/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/vishnu-gs-11">GitHub</a> &nbsp;|&nbsp;
@@ -18,65 +16,66 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<div align="left">
+### 🛠 Tech Stack
+- 💻 **Frontend:** HTML5, CSS3, JavaScript, React *(In Progress)*
+- 🖥 **Backend:** Node.js *(In Progress)*
+- 🗄 **Database:** SQL (Basics), MongoDB *(In Progress)*
+- 🧑‍💻 **Languages:** Java, Python
+- ⚡ **Others:** Git, GitHub, OOPS, DSA *(In Progress)*
 
-**🧰 Tech Stack**
-- 💻 <strong>Frontend:</strong> HTML5, CSS3, JavaScript, React *(In Progress)*
-- 🖥️ <strong>Backend:</strong> Node.js *(In Progress)*
-- 🗄️ <strong>Database:</strong> SQL (Basics), MongoDB *(In Progress)*
-- 🧑‍💻 <strong>Languages:</strong> Java, Python
-- 🛠️ <strong>Others:</strong> Git, GitHub, OOPS, DSA *(In Progress)*
+</td>
 
-</div>
+<td valign="top" width="50%">
 
-<div align="right">
-
-**📜 Certifications**
+### 📜 Certifications
 - 🌐 HTML, CSS, JS, Bootstrap, Flexbox  
 - 🐍 Python Foundations  
 - 📘 JavaScript Essentials  
-- 🛢️ SQL (DBMS Basics)  
+- 🛢 SQL (DBMS Basics)  
 - 🔗 Git & Command Line  
-- ⚛️ React & Node.js *(In Progress)*  
+- ⚛ React & Node.js *(In Progress)*  
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
 </div>
 
 ---
 
-## 📂 Projects & 📊 Languages Used
+## 💼 Projects & 📊 Languages Used
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<div>
+### 📁 Projects
+- 🌐 [**Web Projects**](https://vgweb.ccbp.tech) – Static, responsive websites  
+- ⚛ [**React Projects**](https://vgreact.ccbp.tech) – Routing, state management  
+- ☕ [**Java Projects**](https://vgjava.ccbp.tech) – Console apps using OOPS  
+- 🐍 [**Python Projects**](https://vgpython.ccbp.tech) – CLI tools & games  
+- 🚀 [**Sprint Projects**](https://vgsprint.ccbp.tech) – Real-world & academic projects  
 
-**📁 Projects**
-- 🌍 <a href="https://vgweb.ccbp.tech"><strong>Web Projects</strong></a> – Static & dynamic websites  
-- ⚛️ <a href="https://vgreact.ccbp.tech"><strong>React Projects</strong></a> – Routing & state management  
-- ☕ <a href="https://vgjava.ccbp.tech"><strong>Java Projects</strong></a> – Console apps with OOPS  
-- 🐍 <a href="https://vgpython.ccbp.tech"><strong>Python Projects</strong></a> – CLI tools & games  
-- 🏫 <a href="https://vgsprint.ccbp.tech"><strong>Sprint Projects</strong></a> – Real-world & academic  
+</td>
 
-</div>
+<td valign="top" width="50%">
 
-<div>
+### 📈 Language Usage
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical" width="350"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
 </div>
 
 ---
 
-<blockquote align="center">
-  <strong>💬 “Consistency, curiosity, and coding – that’s my daily routine.”</strong><br>
-  <em>~ Building one project at a time, with love and logic! 💻❤️</em>
-</blockquote>
+<p align="center"><i><b>“Consistency, curiosity, and coding – that’s my daily routine.”</b></i> 🚀</p>
