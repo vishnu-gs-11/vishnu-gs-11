@@ -4,9 +4,9 @@
 
 ---
 
-<table>
+<table style="width:100%;">
 <tr>
-<td>
+<td style="width:50%; vertical-align:top; padding:10px;">
 
 ### 🛠 Tech Stack
 
@@ -17,7 +17,7 @@
 - **Others:** Git & GitHub, OOPS, DSA *(In Progress)*  
 
 </td>
-<td>
+<td style="width:50%; vertical-align:top; padding:10px;">
 
 ### 🏅 Certifications
 
@@ -34,9 +34,9 @@
 
 ---
 
-<table>
+<table style="width:100%;">
 <tr>
-<td>
+<td style="width:50%; vertical-align:top; padding:10px;">
 
 ### 📂 Projects
 
@@ -47,11 +47,10 @@
 - 🔗 [Sprint (Academic + Real-world)](https://vgsprint.ccbp.tech)
 
 </td>
-<td>
+<td style="width:50%; vertical-align:top; padding:10px; text-align:center;">
 
-### 📊 GitHub Stats
+### 📊 Languages Used  
 
-<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
 
 </td>
