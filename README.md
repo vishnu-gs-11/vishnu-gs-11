@@ -1,7 +1,6 @@
 # Hi, I'm Vishnu Ganesan 👋  
 🚀 Full Stack Developer | ECE Student | Tech Enthusiast  
-📍 Karur, Tamil Nadu, India | 📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824  
-🔗 [Portfolio](https://vishnuportfolio.ccbp.tech) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/vishnu-ganesan-0a8328230/) &nbsp;|&nbsp; [GitHub](https://github.com/vishnu-gs-11) &nbsp;|&nbsp; [X (Twitter)](https://x.com/vishnu_gs_11)
+📍 Karur, Tamil Nadu, India | 📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824 | 🔗 [Portfolio](https://vishnuportfolio.ccbp.tech) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/vishnu-ganesan-0a8328230/) &nbsp;|&nbsp; [GitHub](https://github.com/vishnu-gs-11) &nbsp;|&nbsp; [X (Twitter)](https://x.com/vishnu_gs_11)
 
 ---
 
