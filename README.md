@@ -4,17 +4,10 @@
 
 📍 Karur, Tamil Nadu, India  
 📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824  
-🔗 [Portfolio](https://vishnuportfolio.ccbp.tech/) • [LinkedIn](https://www.linkedin.com/in/vishnu-ganesan-0a8328230/) • [GitHub](https://github.com/vishnu-gs-11)
+
 
 ---
 
-### 👨‍💻 About Me
-
-I'm currently pursuing **B.E. in Electronics and Communication Engineering** at V.S.B Engineering College. Alongside my academics, I'm gaining hands-on experience in **Full Stack Development** through **CCBP 4.0 Academy by NxtWave**.  
-
-I'm passionate about building scalable web applications and working on real-time projects using **React, Node.js, and MongoDB**. I strongly believe in consistent learning and practical implementation.
-
----
 
 ### 🛠 Tech Stack
 
