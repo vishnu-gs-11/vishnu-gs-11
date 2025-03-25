@@ -2,8 +2,7 @@
 
 ## 🚀 Full Stack Developer | ECE Student | Tech Enthusiast
 
-📍 Karur, Tamil Nadu, India  
-📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824  
+📍 Karur, Tamil Nadu, India  📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824 | 🔗 **[Portfolio](https://vishnuportfolio.ccbp.tech/)**  
 
 
 ---
@@ -22,22 +21,28 @@
 ### 📂 Projects
 
 - 🌐 **VG Web UI Projects** – A collection of responsive and dynamic websites  
-  🔗 [Live Demo](https://vgweb.ccbp.tech) • 🛠️ HTML, CSS, JavaScript
+  🔗 **[Live Demo](https://vgweb.ccbp.tech)**  
+  🛠️ **Technologies:** HTML, CSS, JavaScript  
 
 - ⚛️ **VG React Projects** – Real-time Single Page Applications using React  
-  🔗 [Live Demo](https://vgreact.ccbp.tech) • 🛠️ React.js, JSX, Routing, State
+  🔗 **[Live Demo](https://vgreact.ccbp.tech)**  
+  🛠️ **Technologies:** React.js, JSX, React Router, State Management  
 
 - 🌍 **Full Stack Web Projects** – MERN stack-based applications *(In Progress)*  
-  🔗 [GitHub Repos](https://github.com/vishnu-gs-11?tab=repositories) • 🛠️ React, Node.js, MongoDB, Express
+  🔗 **[GitHub Repos](https://github.com/vishnu-gs-11?tab=repositories)**  
+  🛠️ **Technologies:** React.js, Node.js, MongoDB, Express  
 
-- 🚌 **Bus Reservation System** – Console-based project with OOP  
-  🛠️ Java, ArrayList, Classes & Objects
+- 🏫 **VG Sprint Projects** – Real-world & academic-related projects  
+  🔗 **[Live Demo](https://vgsprint.ccbp.tech)**  
+  🛠️ **Technologies:** Full Stack (Frontend & Backend), APIs  
 
-- ❓ **Quiz App** – Java-based console quiz game  
-  🛠️ Java
+- ☕ **VG Java Projects** – Java-based console applications  
+  🔗 **[Live Demo](https://vgjava.ccbp.tech)**  
+  🛠️ **Technologies:** Java, OOP, Collections  
 
-- 🎲 **Dice Simulator** – Mini project for dice roll logic  
-  🛠️ Python
+- 🐍 **VG Python Projects** – Python-based applications  
+  🔗 **[Live Demo](https://vgpython.ccbp.tech)**  
+  🛠️ **Technologies:** Python, Algorithms, File Handling  
 
 ---
 
@@ -49,32 +54,6 @@
 - SQL Basics – DBMS  
 - Git & Command Line  
 - React & Node.js *(In Progress)*
-
----
-
-### 🧠 Workshops & Training
-
-- **IoT & Embedded Systems** – CodeBind Technologies  
-- **Full Stack Development** – LiveWire Institute  
-- **Android App Dev** – CodeBind Technologies  
-- **Tech Exposure** – AI/ML, AWS, Cybersecurity, UI/UX (CCBP Academy)
-
----
-
-### 🏆 Achievements & Activities
-
-- 🖋️ Junior Grade English Typewriting – Distinction  
-- 🏸 Zonal Level Winner – Ball Badminton (Tirupur District)
-
----
-
-### 📬 Let's Connect
-
-- 💼 [Portfolio](https://vishnuportfolio.ccbp.tech/)
-- 📧 [Mail Me](mailto:vishnuganesan11@gmail.com)
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/vishnu-ganesan-0a8328230/)
-- 💻 [GitHub](https://github.com/vishnu-gs-11)
-- 📱 [WhatsApp Me](https://wa.me/9345595824)
 
 ---
 
