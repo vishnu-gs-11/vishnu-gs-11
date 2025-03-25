@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer | ECE Student | Tech Enthusiast
 
-📍 Karur, Tamil Nadu, India  📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824 | 🔗 **[Portfolio](https://vishnuportfolio.ccbp.tech/)**  
+📍 Karur, Tamil Nadu, India | 📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824 | 🔗 **[Portfolio](https://vishnuportfolio.ccbp.tech/)**  
 
 
 ---
