@@ -4,53 +4,60 @@
 
 ---
 
-### 🛠 Tech Stack & Skills
+<table>
+<tr>
+<td>
 
-**Frontend:** HTML5 &nbsp;&nbsp;|&nbsp;&nbsp; CSS3 &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; React JS *(In Progress)*  
-**Backend:** Node JS *(In Progress)*  
-**Database:** SQL (Basics) &nbsp;&nbsp;|&nbsp;&nbsp; MongoDB *(In Progress)*  
-**Languages:** Java &nbsp;&nbsp;|&nbsp;&nbsp; Python  
-**Others:** Git & GitHub &nbsp;&nbsp;|&nbsp;&nbsp; OOPS &nbsp;&nbsp;|&nbsp;&nbsp; DSA *(In Progress)*  
+### 🛠 Tech Stack
 
----
+- **Frontend:** HTML5, CSS3, JavaScript, React JS *(In Progress)*  
+- **Backend:** Node JS *(In Progress)*  
+- **Database:** SQL (Basics), MongoDB *(In Progress)*  
+- **Languages:** Java, Python  
+- **Others:** Git & GitHub, OOPS, DSA *(In Progress)*  
+
+</td>
+<td>
 
 ### 🏅 Certifications
 
-- Web Development: HTML, CSS, JS, Bootstrap, Flexbox  
+- HTML, CSS, JS, Bootstrap, Flexbox  
 - Python Foundations  
 - JavaScript Essentials  
 - SQL (DBMS Basics)  
 - Git & Command Line  
 - React & Node.js *(In Progress)*  
 
----
-
-### 📂 Projects & 📊 Top Languages
-
-<table>
-  <tr>
-    <td>
-
-🔗 **[Web Projects](https://vgweb.ccbp.tech)**  
-🔗 **[React Projects](https://vgreact.ccbp.tech)**  
-🔗 **[Java Projects](https://vgjava.ccbp.tech)**  
-🔗 **[Python Projects](https://vgpython.ccbp.tech)**  
-🔗 **[Sprint (Academic + Real-world)](https://vgsprint.ccbp.tech)**  
-
-  </td>
-  <td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
-
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
+<table>
+<tr>
+<td>
+
+### 📂 Projects
+
+- 🔗 [Web Projects](https://vgweb.ccbp.tech)  
+- 🔗 [React Projects](https://vgreact.ccbp.tech)  
+- 🔗 [Java Projects](https://vgjava.ccbp.tech)  
+- 🔗 [Python Projects](https://vgpython.ccbp.tech)  
+- 🔗 [Sprint (Academic + Real-world)](https://vgsprint.ccbp.tech)
+
+</td>
+<td>
+
 ### 📊 GitHub Stats
 
 ![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-gs-11&show_icons=true&theme=radical)  
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
+
+</td>
+</tr>
+</table>
 
 ---
 
