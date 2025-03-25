@@ -1,73 +1,57 @@
-# Hi, I'm Vishnu Ganesan 👋
-
-## 🚀 Full Stack Developer | ECE Student | Tech Enthusiast
-
-📍 Karur, Tamil Nadu, India | 📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824 | 🔗 **[Portfolio](https://vishnuportfolio.ccbp.tech/)** 
+# Hi, I'm Vishnu Ganesan 👋  
+🚀 Full Stack Developer | ECE Student | Tech Enthusiast  
+📍 Karur, Tamil Nadu, India | 📧 vishnuganesan11@gmail.com | 📞 +91 93455 95824 | 🔗 [Portfolio](https://vishnuportfolio.ccbp.tech) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/vishnu-ganesan-0a8328230/) &nbsp;|&nbsp; [GitHub](https://github.com/vishnu-gs-11) &nbsp;|&nbsp; [X (Twitter)](https://x.com/vishnu_gs_11)
 
 ---
 
+### 🛠 Tech Stack & Skills
 
-### 🛠 Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript, React.js *(In Progress)*
-- **Backend:** Node.js *(In Progress)*
-- **Database:** MongoDB *(In Progress)*, SQL (Basics)
-- **Languages:** Java, Python
-- **Others:** Git & GitHub, OOP, DSA *(In Progress)*
-
----
-
-### 📂 Projects
-
-- 🌐 **VG Web UI Projects** – A collection of responsive and dynamic websites  
-  🔗 **[Live Demo](https://vgweb.ccbp.tech)**  
-  🛠️ **Technologies:** HTML, CSS, JavaScript  
-
-- ⚛️ **VG React Projects** – Real-time Single Page Applications using React  
-  🔗 **[Live Demo](https://vgreact.ccbp.tech)**  
-  🛠️ **Technologies:** React.js, JSX, React Router, State Management  
-
-- 🌍 **Full Stack Web Projects** – MERN stack-based applications *(In Progress)*  
-  🔗 **[GitHub Repos](https://github.com/vishnu-gs-11?tab=repositories)**  
-  🛠️ **Technologies:** React.js, Node.js, MongoDB, Express  
-
-- 🏫 **VG Sprint Projects** – Real-world & academic-related projects  
-  🔗 **[Live Demo](https://vgsprint.ccbp.tech)**  
-  🛠️ **Technologies:** Full Stack (Frontend & Backend), APIs  
-
-- ☕ **VG Java Projects** – Java-based console applications  
-  🔗 **[Live Demo](https://vgjava.ccbp.tech)**  
-  🛠️ **Technologies:** Java, OOP, Collections  
-
-- 🐍 **VG Python Projects** – Python-based applications  
-  🔗 **[Live Demo](https://vgpython.ccbp.tech)**  
-  🛠️ **Technologies:** Python, Algorithms, File Handling  
+**Frontend:** HTML5 &nbsp;&nbsp;|&nbsp;&nbsp; CSS3 &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; React JS *(In Progress)*  
+**Backend:** Node JS *(In Progress)*  
+**Database:** SQL (Basics) &nbsp;&nbsp;|&nbsp;&nbsp; MongoDB *(In Progress)*  
+**Languages:** Java &nbsp;&nbsp;|&nbsp;&nbsp; Python  
+**Others:** Git & GitHub &nbsp;&nbsp;|&nbsp;&nbsp; OOPS &nbsp;&nbsp;|&nbsp;&nbsp; DSA *(In Progress)*  
 
 ---
 
-### 📜 Certifications
+### 🏅 Certifications
 
-- Web Development – HTML, CSS, JS, Bootstrap, Flexbox  
-- Python Foundations – CCBP  
+- Web Development: HTML, CSS, JS, Bootstrap, Flexbox  
+- Python Foundations  
 - JavaScript Essentials  
-- SQL Basics – DBMS  
+- SQL (DBMS Basics)  
 - Git & Command Line  
-- React & Node.js *(In Progress)*
+- React & Node.js *(In Progress)*  
 
 ---
 
-### 🛠 GitHub Stats
+### 📂 Projects & 📊 Top Languages
 
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-gs-11&show_icons=true&theme=radical)  
+<table>
+  <tr>
+    <td>
+
+🔗 **[Web Projects](https://vgweb.ccbp.tech)**  
+🔗 **[React Projects](https://vgreact.ccbp.tech)**  
+🔗 **[Java Projects](https://vgjava.ccbp.tech)**  
+🔗 **[Python Projects](https://vgpython.ccbp.tech)**  
+🔗 **[Sprint (Academic + Real-world)](https://vgsprint.ccbp.tech)**  
+
+  </td>
+  <td>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
 
+  </td>
+  </tr>
+</table>
+
 ---
 
-### 🌱 Contribution Graph
+### 📊 GitHub Stats
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vishnu-gs-11&theme=react-dark&hide_border=true)
+![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-gs-11&show_icons=true&theme=radical)  
 
 ---
 
 > “Consistency, curiosity, and coding – that’s my daily routine.” 🚀
-
