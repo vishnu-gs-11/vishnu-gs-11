@@ -4,37 +4,59 @@
 
 ---
 
-## 🛠 Tech Stack & 🏅 Certifications
+### 🛠 Tech Stack & 🏅 Certifications  
 
-### 🧰 Tech Stack
-- 💻 **Frontend:** HTML5, CSS3, JavaScript, React *(In Progress)*  
-- 🖥️ **Backend:** Node.js *(In Progress)*  
-- 🗄️ **Database:** SQL (Basics), MongoDB *(In Progress)*  
-- 🧑‍💻 **Languages:** Java, Python  
-- 🔧 **Others:** Git, GitHub, OOPS, DSA *(In Progress)*  
+<table style="width:100%;">
+<tr>
+<td style="width:50%; padding:10px; vertical-align:top;">
 
-### 📜 Certifications
-- 🌐 HTML, CSS, JS, Bootstrap, Flexbox  
-- 🐍 Python Foundations  
-- 📘 JavaScript Essentials  
-- 🛢️ SQL (DBMS Basics)  
-- 🔗 Git & Command Line  
-- ⚛️ React & Node.js *(In Progress)*
+#### 🧰 **Tech Stack**  
+💻 **Frontend:** HTML5, CSS3, JavaScript, React *(In Progress)*  
+🖥️ **Backend:** Node.js *(In Progress)*  
+🗄️ **Database:** SQL (Basics), MongoDB *(In Progress)*  
+🧑‍💻 **Languages:** Java, Python  
+🔧 **Others:** Git, GitHub, OOPS, DSA *(In Progress)*  
+
+</td>
+<td style="width:50%; padding:10px; vertical-align:top; text-align:right;">
+
+#### 📜 **Certifications**  
+🌐 HTML, CSS, JS, Bootstrap, Flexbox  
+🐍 Python Foundations  
+📘 JavaScript Essentials  
+🛢️ SQL (DBMS Basics)  
+🔗 Git & Command Line  
+⚛️ React & Node.js *(In Progress)*  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Projects & 📊 Languages Used
+### 📂 Projects & 📊 Languages Used  
 
-### 🗂️ Projects
-- 🌍 [**Web Projects**](https://vgweb.ccbp.tech) – Static, responsive, and dynamic websites  
-- ⚛️ [**React Projects**](https://vgreact.ccbp.tech) – Routing, state management in React  
-- ☕ [**Java Projects**](https://vgjava.ccbp.tech) – Console apps with OOPS  
-- 🐍 [**Python Projects**](https://vgpython.ccbp.tech) – CLI tools, games in Python  
-- 🏫 [**Sprint Projects**](https://vgsprint.ccbp.tech) – Real-world & academic-related  
+<table style="width:100%;">
+<tr>
+<td style="width:50%; padding:10px; vertical-align:top;">
 
-### 📊 Languages Used
+#### 🗂️ **Projects**  
+🌍 **[Web Projects](https://vgweb.ccbp.tech)** – Static, responsive, and dynamic websites  
+⚛️ **[React Projects](https://vgreact.ccbp.tech)** – Routing, state management in React  
+☕ **[Java Projects](https://vgjava.ccbp.tech)** – Console apps with OOPS  
+🐍 **[Python Projects](https://vgpython.ccbp.tech)** – CLI tools, games in Python  
+🏫 **[Sprint Projects](https://vgsprint.ccbp.tech)** – Real-world & academic-related  
+
+</td>
+<td style="width:50%; padding:10px; vertical-align:top; text-align:right;">
+
+#### 📊 **Languages Used**  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
+
+</td>
+</tr>
+</table>
 
 ---
 
