@@ -56,5 +56,18 @@
 
 ---
 
+### 🛠 GitHub Stats
+
+![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-gs-11&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
+
+---
+
+### 🌱 Contribution Graph
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vishnu-gs-11&theme=react-dark&hide_border=true)
+
+---
+
 > “Consistency, curiosity, and coding – that’s my daily routine.” 🚀
 
