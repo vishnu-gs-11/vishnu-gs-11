@@ -51,7 +51,6 @@
 
 ### 📊 GitHub Stats
 
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-gs-11&show_icons=true&theme=radical)  
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical)
 
