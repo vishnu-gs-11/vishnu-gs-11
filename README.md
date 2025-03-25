@@ -15,45 +15,64 @@
 
 ---
 
-## 🛠️ Tech Stack & 🎓 Certifications
+## ⚙️ Tech Stack & 🎓 Certifications
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
+<div align="center">
 
-<ul align="left">
-  <li>💻 <strong>Frontend:</strong> HTML5, CSS3, JavaScript, React <em>(In Progress)</em></li>
-  <li>🖥️ <strong>Backend:</strong> Node.js <em>(In Progress)</em></li>
-  <li>🗄️ <strong>Database:</strong> SQL (Basics), MongoDB <em>(In Progress)</em></li>
-  <li>🧑‍💻 <strong>Languages:</strong> Java, Python</li>
-  <li>🛠️ <strong>Others:</strong> Git, GitHub, OOPS, DSA <em>(In Progress)</em></li>
-</ul>
+<div style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
 
-<ul align="right">
-  <li>🌐 HTML, CSS, JS, Bootstrap, Flexbox</li>
-  <li>🐍 Python Foundations</li>
-  <li>📘 JavaScript Essentials</li>
-  <li>🛢️ SQL (DBMS Basics)</li>
-  <li>🔗 Git & Command Line</li>
-  <li>⚛️ React & Node.js <em>(In Progress)</em></li>
-</ul>
+<div align="left">
 
+**🧰 Tech Stack**
+- 💻 <strong>Frontend:</strong> HTML5, CSS3, JavaScript, React *(In Progress)*
+- 🖥️ <strong>Backend:</strong> Node.js *(In Progress)*
+- 🗄️ <strong>Database:</strong> SQL (Basics), MongoDB *(In Progress)*
+- 🧑‍💻 <strong>Languages:</strong> Java, Python
+- 🛠️ <strong>Others:</strong> Git, GitHub, OOPS, DSA *(In Progress)*
+
+</div>
+
+<div align="right">
+
+**📜 Certifications**
+- 🌐 HTML, CSS, JS, Bootstrap, Flexbox  
+- 🐍 Python Foundations  
+- 📘 JavaScript Essentials  
+- 🛢️ SQL (DBMS Basics)  
+- 🔗 Git & Command Line  
+- ⚛️ React & Node.js *(In Progress)*  
+
+</div>
+
+</div>
 </div>
 
 ---
 
 ## 📂 Projects & 📊 Languages Used
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
+<div align="center">
 
-<ul align="left">
-  <li>🌍 <a href="https://vgweb.ccbp.tech"><strong>Web Projects</strong></a> – Static, responsive, and dynamic websites</li>
-  <li>⚛️ <a href="https://vgreact.ccbp.tech"><strong>React Projects</strong></a> – Routing, state management in React</li>
-  <li>☕ <a href="https://vgjava.ccbp.tech"><strong>Java Projects</strong></a> – Console apps with OOPS</li>
-  <li>🐍 <a href="https://vgpython.ccbp.tech"><strong>Python Projects</strong></a> – CLI tools, games in Python</li>
-  <li>🏫 <a href="https://vgsprint.ccbp.tech"><strong>Sprint Projects</strong></a> – Real-world & academic-related</li>
-</ul>
+<div style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
+
+<div align="left">
+
+**📁 Projects**
+- 🌍 <a href="https://vgweb.ccbp.tech"><strong>Web Projects</strong></a> – Static & dynamic websites  
+- ⚛️ <a href="https://vgreact.ccbp.tech"><strong>React Projects</strong></a> – Routing & state management  
+- ☕ <a href="https://vgjava.ccbp.tech"><strong>Java Projects</strong></a> – Console apps with OOPS  
+- 🐍 <a href="https://vgpython.ccbp.tech"><strong>Python Projects</strong></a> – CLI tools & games  
+- 🏫 <a href="https://vgsprint.ccbp.tech"><strong>Sprint Projects</strong></a> – Real-world & academic  
+
+</div>
+
+<div align="right">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-gs-11&layout=compact&theme=radical" width="350"/>
 
+</div>
+
+</div>
 </div>
 
 ---
