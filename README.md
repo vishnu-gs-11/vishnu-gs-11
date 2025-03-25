@@ -5,8 +5,7 @@
   <br>
   📍 Karur, Tamil Nadu, India  
   <br>
-  📧 <a href="mailto:vishnuganesan11@gmail.com">vishnuganesan11@gmail.com</a> | 📞 +91 93455 95824  
-  <br><br>
+  📧 <a href="mailto:vishnuganesan11@gmail.com">vishnuganesan11@gmail.com</a> | 📞 +91 93455 95824 | 
   🔗 <a href="https://vishnuportfolio.ccbp.tech">Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/vishnu-ganesan-0a8328230/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/vishnu-gs-11">GitHub</a> &nbsp;|&nbsp;
