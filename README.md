@@ -61,7 +61,7 @@
 - ☕ [**Java Projects**](https://vgjava.ccbp.tech) – Console apps using OOPS  
 - 🐍 [**Python Projects**](https://vgpython.ccbp.tech) – CLI tools & games  
 - 🚀 [**Sprint Projects**](https://vgsprint.ccbp.tech) – Real-world & academic projects  
-
+- ⛅ [**WeatherMate**](https://vgweb01.ccbp.tech) – Weather Application
 </td>
 
 <td valign="top" width="50%">
